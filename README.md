@@ -48,9 +48,6 @@
      <td align="center">
        <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
      </td>
-      <td align="center">
-       <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
-     </td> 
     <td>
      <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
     </td>
