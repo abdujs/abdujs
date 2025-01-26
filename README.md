@@ -1,5 +1,5 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeabnoah&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeabnoah)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abdujs&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/abdujs)
 <!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
 <div align="left" width="100%" height="100%">
  
