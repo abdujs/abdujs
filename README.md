@@ -19,7 +19,7 @@
    </tr>
 </table>
 
-<h4> Technologies [ Frameworks && tools ] </h4>
+<h4>Frameworks && tools  </h4>
 
 <table>
    <tr>
