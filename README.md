@@ -37,7 +37,7 @@
 <table>
    <tr>
           <td align="center">
-       <img alt="Next js" height=64px src= "[[https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F20535%2Fnextjs&psig=AOvVaw0PHlFBwjKcxhaRk-vEk5iJ&ust=1737968617588000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDbnOODk4sDFQAAAAAdAAAAABAI)">
+       <img alt="Next js" height=64px src= "">
      </td>
       <td align="center">
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
@@ -78,8 +78,8 @@
    <tr>
      <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeabnoah&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabnoah&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=abdujs&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdujs&theme=radical&layout=compact)](https://github.com/abdujs) </td>
    </tr>
   </table>
 
