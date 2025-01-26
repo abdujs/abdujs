@@ -29,9 +29,6 @@
           <td align="center">
        <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
      </td>
-      <td align="center">
-      <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
-    </td>
    </tr>
 </table>
 
