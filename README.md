@@ -36,9 +36,6 @@
 
 <table>
    <tr>
-          <td align="center">
-       <img alt="Next js" height=64px src= "">
-     </td>
       <td align="center">
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
       </td>
@@ -51,6 +48,9 @@
     <td>
      <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
     </td>
+    <td align="center">
+       <img alt="Next js" height=64px src= "">
+     </td>
    </tr>
    <tr> 
      <td align="center">
