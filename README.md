@@ -1,33 +1,130 @@
-# Hi there! 👋
-I'm [Your Name]!
 
-## About Me
-- 🌱 I’m currently learning Web Development and Machine Learning.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with building scalable web applications.
-- 💬 Ask me about JavaScript, React, and Python.
-- 📫 How to reach me: janedoe@example.com
-- ⚡ Fun fact: I love hiking and exploring new trails.
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=yeabnoah&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/yeabnoah)
+<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
+<div align="left" width="100%" height="100%">
+ 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-ashebir-tech-nerd-8a3a80267/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff&style=for-the-badge)](mailto:yeabnoah5@gmail.com)
+![](https://komarev.com/ghpvc/?username=yeabnoah&color=brightgreen&style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/technerd345)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TechNerd556)
+</div>
 
-## My Skills
-### Languages:
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-|---|---|---|---|
 
-### Frameworks:
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) |
-|---|---|---|
 
-### Tools:
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-|---|---|
+<h4 style="font-size : 20px;">👋 Hello! I'm Yeabsra , a web and mobile developer from Ethiopia. I taught myself how to build websites and apps. I enjoy using technology to solve problems and bring ideas to life. I'm good at paying attention to small details and finding solutions when things get tough. When I'm not coding, I'm always learning something new. Let's connect and work together to make cool stuff happen!!<h4>
 
-### Familiar:
-| ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-|---|---|---|
+<h2> some of the technologies I work with ❤️</h2>
 
-## Connect with Me
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janedoe/) | [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/janedoe) | [![Personal Website](https://img.shields.io/badge/Website-FF4088?style=for-the-badge&logo=next.js&logoColor=white)](https://janedoe.github.io) |
-|---|---|---|
+<h4> programming languages</h4>
+ 
+ <table width="100%" height="100%">
+  <tr>
+      <td>
+        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+     </td>
+     <td>
+      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+     </td>
+          <td align="center">
+       <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
+     </td>
+      <td align="center">
+      <img alt="Go-lang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-1.svg">
+    </td>
+   </tr>
+</table>
 
-Thank you for visiting my profile! 😊
+<h4> Technologies [ Frameworks && tools ] </h4>
+
+<table>
+   <tr>
+          <td align="center">
+       <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+     </td>
+      <td align="center">
+      <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    </td>
+          <td align="center">
+       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
+     </td> 
+    <td>
+        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+     </td>
+     <td align="center">
+      <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+    </td>
+     <td align="center">
+       <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
+     </td>
+     <td align="center">
+       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
+     </td> 
+      <td align="center">
+       <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
+     </td> 
+    <td>
+     <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
+    </td>
+   </tr>
+   <tr>
+          <td align="center">
+       <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
+     </td> 
+     <td align="center">
+       <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
+     </td>
+        <td align="center">
+       <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+     </td>
+    <td align="center">
+       <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
+     </td> 
+       <td align="center">
+       <img alt="GraphQL" height=64px src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg">
+     </td> 
+       <td align="center">
+       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+     </td>  
+    <td align="center">
+       <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
+     </td> 
+   </tr>
+
+ </table>
+ 
+<br>
+
+
+
+
+ <table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=yeabnoah&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeabnoah&theme=radical&layout=compact)](https://github.com/yeabnoah) </td>
+   </tr>
+  </table>
+
+
+ 
+ 
+
+
+<!--
+**yeabnoah/yeabnoah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+ 🔭 I’m currently working on ...##Python & Django
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+<a href="https://github.com/yeabnoah/stargazers"><img src="https://img.shields.io/github/stars/yeabnoah" alt="Stars Badge"/></a>
+
+-->
