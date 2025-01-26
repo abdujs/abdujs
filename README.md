@@ -37,7 +37,7 @@
 <table>
    <tr>
           <td align="center">
-       <img alt="Next js" height=64px src= "https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+       <img alt="Next js" height=64px src= "[https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png)">
      </td>
       <td align="center">
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
