@@ -41,22 +41,13 @@
      </td>
       <td align="center">
       <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    </td>
-          <td align="center">
-       <img alt="Expo" height=64px src="https://cdn.worldvectorlogo.com/logos/expo-1.svg">
-     </td> 
-    <td>
-        <img alt="React Native" height=64px src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-     </td>
+      </td>
      <td align="center">
       <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
     </td>
      <td align="center">
        <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
      </td>
-     <td align="center">
-       <img alt="Electron" height=64px src="https://cdn.worldvectorlogo.com/logos/electron-1.svg">
-     </td> 
       <td align="center">
        <img alt="Telegraf" height=64px src="https://telegraf.js.org/media/logo.svg">
      </td> 
@@ -64,10 +55,7 @@
      <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
     </td>
    </tr>
-   <tr>
-          <td align="center">
-       <img alt="Hono" height=64px src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png">
-     </td> 
+   <tr> 
      <td align="center">
        <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
      </td>
@@ -78,14 +66,8 @@
        <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
      </td> 
        <td align="center">
-       <img alt="GraphQL" height=64px src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg">
-     </td> 
-       <td align="center">
        <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td>  
-    <td align="center">
-       <img alt="Socket-io" height=64px src="https://cdn.worldvectorlogo.com/logos/socket-io.svg">
-     </td> 
    </tr>
 
  </table>
