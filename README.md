@@ -1,60 +1,24 @@
 
 <h3 style="font-size: 20px;">👋 Hello! I'm Abdulwahid, a passionate full-stack web developer. I am proficient in JavaScript, React, Node.js, and various database technologies.  Let's connect and create amazing projects together!</h3>
 
-<h2> Technologies I work with </h2>
-
-<h4> programming languages</h4>
- 
- <table width="100%" height="100%">
-  <tr>
-      <td>
-        <img alt="Typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-     </td>
-     <td>
-      <img alt="Javascript" height=64px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-     </td>
-          <td align="center">
-       <img alt="Python" height=64px src= "https://cdn.worldvectorlogo.com/logos/python-5.svg">
-     </td>
-   </tr>
-</table>
-
-<h4>Frameworks && tools  </h4>
-
-<table>
-   <tr>
-      <td align="center">
-      <img alt="React" height=64px src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-      </td>
-     <td align="center">
-      <img alt="Tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-    </td>
-     <td align="center">
-       <img alt="Redux" height=64px src= "https://cdn.worldvectorlogo.com/logos/redux.svg">
-     </td>
-    <td>
-     <img alt="shad-cn" height=64px src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096">
-    </td>
-    <td align="center">
-       <img alt="Next js" height=64px src= "">
-     </td>
-   </tr>
-   <tr> 
-     <td align="center">
-       <img alt="Express" height=64px src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png">
-     </td>
-        <td align="center">
-       <img alt="Mongo Db" height=64px src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
-     </td>
-    <td align="center">
-       <img alt="my-sql" height=64px src="https://brandslogos.com/wp-content/uploads/thumbs/mysql-logo-vector-1.svg">
-     </td> 
-       <td align="center">
-       <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-     </td>  
-   </tr>
-
- </table>
+### 💻 Languages and Tools I code with:
+[![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Redux Badges](https://img.shields.io/badge/redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=7248B6)](#)
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+[![CSS3 Badge](https://img.shields.io/badge/css3-EFEFEF?style=for-the-badge&logo=css3&logoColor=254BDD)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![Firebase Badge](https://img.shields.io/badge/firebase-EFEFEF?style=for-the-badge&logo=firebase&logoColor=F76C00)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+<!-- 
+[![Bootstrap Badge](https://img.shields.io/badge/bootstrap-7010EF?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)  -->
+---
  
 <br>
 
