@@ -1,11 +1,4 @@
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=abdujs&data=followers,repositories,stars,commits&theme=viridescent)](https://github.com/abdujs)
-<!-- <h3 align ="center"> <strong> Let`s Code.Build & FUN </strong> </h3>  -->
-<div align="left" width="100%" height="100%">
-
-
-
-
 <h4 style="font-size: 20px;">👋 Hello! I'm Abdulwahid, a passionate full-stack web developer. I am proficient in JavaScript, React, Node.js, and various database technologies.  Let's connect and create amazing projects together!</h4>
 
 <h2> Technologies I work with </h2>
