@@ -16,17 +16,8 @@
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) 
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)  
  
-<br>
+<br> 
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdujs&theme=radical&layout=compact)](https://github.com/abdujs)
- 
-
-
- 
- 
 
 
 <!--
