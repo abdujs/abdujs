@@ -1,5 +1,5 @@
 
-<h3 style="font-size: 20px;">👋 Hello! I'm Abdulwahid, a passionate full-stack web developer. I am proficient in JavaScript, React, Node.js, and various database technologies.  Let's connect and create amazing projects together!</h3>
+<h3 style="font-size: 20px;">Web developer with a strong background in creating responsive and user-friendly websites.Skilled in modern frameworks and technologies, with expertise in API integration. Passionateabout exploring new tools and enhancing development processes. Known for attention to detailand commitment to delivering high-quality web solutions.</h3>
 
 ### 💻 Languages and Tools I code with:
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
