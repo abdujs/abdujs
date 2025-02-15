@@ -1,5 +1,5 @@
 
-<h3 style="font-size: 20px;">Web developer with a strong background in creating responsive and user-friendly websites. Skilled in modern frameworks and technologies, with expertise in API integration. Passionate about exploring new tools and enhancing development processes.Commitment to delivering high-quality web solutions.</h3>
+<h3 style="font-size: 20px;">Web developer with a strong background in creating responsive and user-friendly websites. Skilled in modern frameworks and technologies, with expertise in API integration and ommitment to delivering high-quality web solutions.</h3>
 
 ### 💻 Languages and Tools I code with:
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
