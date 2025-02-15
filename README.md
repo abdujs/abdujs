@@ -9,6 +9,7 @@
 <a href="#"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB"></a>
 <a href="#"><img src="https://img.shields.io/badge/redux-FFFFFF?style=for-the-badge&logo=redux&logoColor=7248B6"></a>
 <a href="#"><img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white"></a> 
+<a href="#"><img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc"></a>
 <a href="#"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&logo=node.js&logoColor=3C873A"></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
