@@ -7,12 +7,5 @@
 
 
 
-:hearts: &emsp;Passionate developer who enjoys programmming and love to contribute to Open Source projects  <br />
-💬 &emsp;Actively writing blogs at [https://medium.com/@jisanmia](https://jisanmia.medium.com/) and [dev.to](https://dev.to/jisan) <br />
-🌋 &emsp;I’m always looking for challenging work opportunities ahead.<br />
-:e-mail: &emsp;How to reach me: jisanmia47@gmail.com<br/>
-⚡ &emsp;Fun fact: I really love to travel and explore new things in my free time.<br />
-
-
 
 
