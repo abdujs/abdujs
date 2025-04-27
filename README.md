@@ -1,4 +1,4 @@
-<h3 style="font-size: 20px;">Web developer with a strong background in creating responsive and user-friendly websites. Skilled in modern frameworks and technologies, with expertise in API integration. </h3> 
+<h3 style="font-size: 20px;">Web developer with a strong background in creating responsive and user-friendly websites. Skilled in modern frameworks and technologies, with expertise in API integration. Driven by a growth mindset, always eager to learn, adapt, and tackle new challenges to deliver innovative solutions. </h3> 
 
 <!-- 
 <p align="center">   
