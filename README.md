@@ -11,7 +11,7 @@
 
        
      
-### 📊 Stats     
+### 📊 Stats      
 
   
 <div style="display: flex;">
