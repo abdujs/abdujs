@@ -1,6 +1,6 @@
-<h2> Hi my name is  <b>Abdulwahid</b> </h2>
+<h2> <b>Abdulwahid M.</b> </h2>
 
-<h3 style="font-size: 10px;">Web developer, Driven by a growth mindset, always eager to learn, adapt, and tackle new challenges to deliver innovative solutions. </h3> 
+<h3 style="font-size: 10px;">Web developer, Driven by a growth mindset, always eager to learn and adapt. </h3> 
 
 <!-- 
  with a strong background in creating responsive and user-friendly websites. Skilled in modern frameworks and technologies, with expertise in API integration. 
