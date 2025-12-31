@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Abdulwahid Munewer</h1>
-<h3 align="center">Full-Stack Developer | Eager Learner | Growth Mindset</h3>
+<h3 align="center">Full-Stack Developer | Lifelong Learner </h3>
 
 <p align="center">
   <a href="https://abdulwahid-dev.vercel.app" target="_blank">
