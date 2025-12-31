@@ -78,7 +78,7 @@ I'm a highly motivated Full-Stack Developer proficient in modern web stacks, inc
 
 | **🌐 Portfolio** | [abdulwahid-dev.vercel.app](https://abdulwahid-dev.vercel.app) 
 | **💼 LinkedIn** | [linkedin.com/in/abdulwahid-m](https://www.linkedin.com/in/abdulwahid-m/)
-| **📱 Telegram** | [@Abdulwahid_Munewer](https://t.me/Abdulwahid_Munewer) | Direct messaging 
+| **📱 Telegram** | [@Abdulwahid_Munewer](https://t.me/Abdulwahid_Munewer)
 
 
 </div>
