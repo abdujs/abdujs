@@ -4,12 +4,11 @@
 
 <p>I am a highly motivated Full-Stack Developer, proficient in modern web stacks, including JavaScript/TypeScript, Node.js, React, and Next.js. I have a proven ability to build responsive, robust web applications and APIs, emphasizing code quality and efficient database management (PostgreSQL, MongoDB).</p>
 
-<p>With a Bachelor's degree in Business Administration and Information Systems, I translate complex business needs into effective software solutions. I am eager to take on challenging roles that promote continuous learning and technical specialization.</p>
 
 ### 🔧 Skills
-- **Programming Languages:** Python, JavaScript (ES6+), TypeScript, Java (OOP), HTML5, CSS3
+- **Programming Languages:** Python, JavaScript (ES6+), TypeScript, HTML5, CSS3
 - **Backend Frameworks:** Node.js (Express)
-- **Frontend Frameworks:** React, Next.js, Shadcn UI, and Framer Motion
+- **Frontend Frameworks:** React, Next.js, Shadcn UI
 - **Databases & ORMs:** PostgreSQL, MongoDB, Prisma
 - **Tools & Version Control:** Git (GitHub), Docker, Jest, Postman
 - **Business Systems:** SQL, Microsoft Excel (Data Analysis), Business Process Mapping
