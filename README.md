@@ -50,7 +50,7 @@ I'm a highly motivated Full-Stack Developer proficient in modern web stacks, inc
 
 ## 📈 Professional Experience
 
-### **Full-Stack Developer Intern** @ [Bewide Technology](https://bewidetechnology.com)
+### **Full-Stack Developer Intern** @ [Bewide Technology](https://www.linkedin.com/company/bewide-technologies/)
 *02/2025 – 06/2025 (Remote)*
 - Developed robust web applications using Node.js, React, and PostgreSQL
 - Gained hands-on experience in full-stack architecture and development cycles
@@ -64,27 +64,27 @@ I'm a highly motivated Full-Stack Developer proficient in modern web stacks, inc
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  
-  <a href="https://github.com/Abdujs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdujs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdujs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Abdujs&theme=tokyonight&hide_border=true)
-  
+<div style="display: flex;">
+    <picture>
+        <source srcset="https://github-readme-stats.jisan-mia.vercel.app/api/top-langs/?username=Abdujs&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.jisan-mia.vercel.app/api/top-langs/?username=Abdujs&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.jisan-mia.vercel.app/api/top-langs/?username=Abdujs&layout=compact&hide_border=true" alt="Top Languages" />
+    </picture>
+    <picture>
+        <source srcset="https://github-readme-stats.jisan-mia.vercel.app/api?username=Abdujs&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.jisan-mia.vercel.app/api?username=Abdujs&show_icons=true&hide_border=true&include_all_commits=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.jisan-mia.vercel.app/api?username=jisan-mia&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
+    </picture>
 </div>
 
 ## 📫 Let's Connect
 
 <div align="center">
-
-| Platform | Link | Description |
-|----------|------|-------------|
+  
 | **🌐 Portfolio** | [abdulwahid-dev.vercel.app](https://abdulwahid-dev.vercel.app) | My professional portfolio website |
 | **💼 LinkedIn** | [linkedin.com/in/abdulwahid-m](https://www.linkedin.com/in/abdulwahid-m/) | Professional network |
 | **📱 Telegram** | [@Abdulwahid_Munewer](https://t.me/Abdulwahid_Munewer) | Direct messaging |
-| **📧 Email** | [Available on Portfolio](https://abdulwahid-dev.vercel.app#contact) | Contact form on my website |
+| **📧 Email** | [Available on Portfolio](https://abdulwahid-dev.vercel.app#contact) | Contact form on my website __|
 
 </div>
 
