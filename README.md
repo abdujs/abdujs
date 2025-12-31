@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a highly motivated Full-Stack Developer proficient in modern web stacks, including JavaScript/TypeScript, Node.js, React, and Next.js. With a Bachelor's degree in Business Administration and Information Systems, I bridge the gap between complex business needs and effective software solutions. Passionate about building responsive, robust web applications and APIs with emphasis on code quality and efficient database management.
+I'm a Full-Stack Developer specializing in JavaScript/TypeScript, React, and Node.js. With a unique blend of Business Administration and Information Systems education, I excel at translating complex business requirements into scalable, efficient software solutions. I'm passionate about building performant applications with clean architecture and robust backend systems.
 
 ## 💼 Technical Skills
 
