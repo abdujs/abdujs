@@ -1,6 +1,6 @@
 <h2><b>Abdulwahid Munewer</b> 🌟</h2>
 
-<h3 style="font-size: 14px;">Full-Stack Developer | Eager Learner | Growth Mindset</h3>
+<h3 style="font-size: 14px;">Full-Stack Developer | Growth Mindset</h3>
 
 <p>I am a highly motivated Full-Stack Developer, proficient in modern web stacks, including JavaScript/TypeScript, Node.js, React, and Next.js. I have a proven ability to build responsive, robust web applications and APIs, emphasizing code quality and efficient database management (PostgreSQL, MongoDB).</p>
 
