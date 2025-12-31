@@ -56,6 +56,7 @@ I'm a Full-Stack Developer specializing in JavaScript/TypeScript, React, and Nod
 - Gained hands-on experience in full-stack architecture and development cycles
 - Utilized Docker for containerization and streamlined development workflows
 - Contributed to large-scale SaaS projects and collaborated with cross-functional teams
+- Built features for **[Assunah Foundation](https://www.sunnahfoundation.org)** using Next.js, TypeScript, and PostgreSQL
 
 ### **Web Development Trainer** @ [Meweda School](https://mewedaschool.com)
 *06/2025 – 09/2025 | AyerTena, Addis Ababa*
