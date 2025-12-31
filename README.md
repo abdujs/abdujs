@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a Full-Stack Developer specializing in JavaScript/TypeScript, React, and Node.js. With a unique blend of Business Administration and Information Systems education, I excel at translating complex business requirements into scalable, efficient software solutions. I'm passionate about building performant applications with clean architecture and robust backend systems.
+I'm a Full-Stack Developer specializing in JavaScript/TypeScript, React, and Node.js. With a unique blend of Business Administration and Information Systems background, I excel at translating complex business requirements into scalable, efficient software solutions. I'm passionate about building performant applications with clean architecture and robust backend systems.
 
 ## 💼 Technical Skills
 
